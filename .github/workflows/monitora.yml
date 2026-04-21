@@ -1,0 +1,36 @@
+name: Monitoraggio Fattorie Sociali
+
+on:
+  schedule:
+    # Ogni lunedì alle 8:00 ora italiana (7:00 UTC)
+    - cron: '0 7 * * 1'
+  # Permette di avviarlo manualmente dalla pagina GitHub
+  workflow_dispatch:
+
+jobs:
+  monitora:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Scarica il repository
+        uses: actions/checkout@v4
+
+      - name: Configura Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Installa dipendenze
+        run: pip install requests beautifulsoup4
+
+      - name: Esegui monitoraggio
+        run: python monitora_fattorie_sociali.py
+        # continue-on-error permette di salvare lo stato
+        # anche quando vengono rilevati aggiornamenti
+        continue-on-error: true
+
+      - name: Salva lo stato aggiornato
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Aggiornamento stato monitoraggio fattorie sociali"
+          file_pattern: stato_monitoraggio.json
