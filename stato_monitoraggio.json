@@ -1,22 +1,22 @@
 {
   "Calabria": {
     "hash": "3b0713ea40f159c5b87298995c568ce2dc1ac5b6f9e171da89a71d153dccc19a",
-    "ultimo_controllo": "2026-10-12T16:11:37.887494"
+    "ultimo_controllo": "2026-10-19T14:05:09.073095"
   },
   "Campania": {
     "url_file": "https://agricoltura.regione.campania.it/sociale/pdf/registro-fattorie-sociali-al-01-10-2024.pdf",
     "hash": "b20d5c7daff372cb1976551caeaac3139f9b62e9cb5e567f74d6c65d59dd622f",
-    "ultimo_controllo": "2026-10-12T16:11:40.340656",
+    "ultimo_controllo": "2026-10-19T14:05:11.164588",
     "ultima_modifica": "2026-06-08T11:46:34.426788"
   },
   "Emilia-Romagna": {
     "url_file": "https://agricoltura.regione.emilia-romagna.it/agriturismo-e-multifunzionalita/agricoltura-sociale/approfondire/elenco-fattorie-sociali-3_02_25.pdf/@@download/file",
     "hash": "379cb2e6c907114a8c430b666b07d5fd28b906dc36246d7000cd1998a7686a46",
-    "ultimo_controllo": "2026-10-12T16:11:43.979814"
+    "ultimo_controllo": "2026-10-19T14:05:13.743763"
   },
   "Liguria": {
     "hash": "cba2e7594d5301dfe0d9ce5b4e89671c3b70af983bd39e4e99e2890017563415",
-    "ultimo_controllo": "2026-10-12T16:11:48.448923"
+    "ultimo_controllo": "2026-10-19T14:05:17.064916"
   },
   "Lombardia": {
     "hash": "4f459585a5bfa880c7a5155fcb34addc81dbc34dfc15b9bb15c2a51bbc2c13eb",
@@ -25,17 +25,17 @@
   },
   "Sardegna": {
     "hash": "53cbf23b31aecd676c531a3dcaddb8d05151fcbabcfbe4fa3effb7fe6def0634",
-    "ultimo_controllo": "2026-10-12T16:12:30.130354",
+    "ultimo_controllo": "2026-10-19T14:05:54.878087",
     "ultima_modifica": "2026-08-03T10:30:04.459927"
   },
   "Valle d'Aosta": {
     "url_file": "https://www.regione.vda.it/allegato.aspx?pk=102144",
     "hash": "90c29e0e8e14c8662bfa31fda3958f4e363ee49573bf3def0eb8f743829d399c",
-    "ultimo_controllo": "2026-10-12T16:12:55.358511"
+    "ultimo_controllo": "2026-10-19T14:06:00.633190"
   },
   "Veneto": {
     "hash": "c9e082213a03d502c39b1c58208eeffccce9199185d8d4afd9193a8320c75835",
-    "ultimo_controllo": "2026-10-12T16:12:59.296736",
+    "ultimo_controllo": "2026-10-19T14:06:04.007610",
     "ultima_modifica": "2026-04-21T21:06:26.969696"
   },
   "Piemonte": {
@@ -47,17 +47,17 @@
   "Puglia": {
     "url_file": "https://filiereagroalimentari.regione.puglia.it/documents/1662405/5371171/Elenco+Regionale+delle+Fattorie+Sociali_agg_07.08.2026.pdf/e131f8f0-9b4e-a683-8980-8d50433ed211?t=1786090202823",
     "hash": "41bbb88e6ccff4d5f1b546e985decbe731eff22c98855db0ae5d74ac1279a8d0",
-    "ultimo_controllo": "2026-10-12T16:12:29.012361",
+    "ultimo_controllo": "2026-10-19T14:05:53.951577",
     "ultima_modifica": "2026-08-17T07:41:00.831710"
   },
   "Sicilia": {
     "url_file": "https://www.regione.sicilia.it/system/files/2026-03/elenco_regionale_operatori_agricoltura_sociale_al_31.12.25.pdf",
     "hash": "a1d21e9f6f3cdfc11fa8e4e3ee49ab11f102bb3a26b9740d04232c22c8d67d27",
-    "ultimo_controllo": "2026-10-12T16:12:52.720983",
+    "ultimo_controllo": "2026-10-19T14:05:58.362441",
     "ultima_modifica": "2026-08-10T08:19:38.871530"
   },
   "Friuli-Venezia Giulia": {
     "hash": "81964248960690cdd92309f120a5b7bf13a1227f028a5c9657a52f0b4dc7fad7",
-    "ultimo_controllo": "2026-10-12T16:11:46.418090"
+    "ultimo_controllo": "2026-10-19T14:05:15.458841"
   }
 }
