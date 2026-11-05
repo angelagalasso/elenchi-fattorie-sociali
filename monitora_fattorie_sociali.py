@@ -72,12 +72,10 @@ REGIONI = {
         "nota": "Elenco Fattorie Sociali",
     },
     "Campania": {
-    "tipo": "pagina",
-    "url_pagina": "https://agricoltura.regione.campania.it/sociale/agricoltura_sociale.html",
-    "filtro": "registro fattorie sociali",
-    "filtro_testo": True,
-    "nota": "Registro Fattorie Sociali",
-},
+        "tipo": "manuale",
+        "url_pagina": "https://www.regione.campania.it/regione/it/tematiche/agricoltura-sociale-in-campania-fattorie-sociali",
+        "nota": "Registro Fattorie Sociali — il server blocca le richieste automatiche, verifica manualmente",
+    },
     "Emilia-Romagna": {
         "tipo": "pagina",
         "url_pagina": "https://agricoltura.regione.emilia-romagna.it/agriturismo-e-multifunzionalita/agricoltura-sociale",
@@ -106,18 +104,14 @@ REGIONI = {
         "nota": "Elenco EROAS — il server blocca le richieste automatiche, verifica manualmente",
     },
     "Piemonte": {
-        "tipo": "pagina",
+        "tipo": "manuale",
         "url_pagina": "https://www.regione.piemonte.it/web/temi/agricoltura/ricerca-innovazione-multifunzionalita/elenco-regionale-delle-fattorie-sociali-piemonte",
-        "filtro": "fattorie sociali",
-        "filtro_testo": True,  # cerca nel testo del link perché l'URL contiene solo il numero dell'atto
-        "nota": "Elenco Regionale Fattorie Sociali",
+        "nota": "Elenco Fattorie Sociali — il server blocca le richieste automatiche, verifica manualmente",
     },
     "Puglia": {
-        "tipo": "pagina",
+        "tipo": "manuale",
         "url_pagina": "https://filiereagroalimentari.regione.puglia.it/agricoltura-sociale",
-        "filtro": "Fattorie+Sociali",
-        "filtro_testo": False,
-        "nota": "Elenco Regionale Fattorie Sociali",
+        "nota": "Elenco Fattorie Sociali — il server blocca le richieste automatiche, verifica manualmente",
     },
     "Sardegna": {
         "tipo": "html",
