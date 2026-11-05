@@ -97,7 +97,7 @@ REGIONI = {
     },
     "Lombardia": {
         "tipo": "file",
-        "url_file": "https://www.regione.lombardia.it/content/dam/rl/canali-tematici-servizi/10-agricoltura/13-fattorie-didattiche-e-sociali/ser-fattorie-sociali-della-lombardia-agr/allegati/Allegati%20(fattorie%20sociali).zip",
+        "url_file": "https://www.regione.lombardia.it/content/dam/rl/canali-tematici-servizi/10-agricoltura/13-fattorie-didattiche-e-sociali/ser-fattorie-sociali-della-lombardia-agr/allegati/Allegati%20%28_fattorie%20sociali%29.zip",
         "nota": "Elenco Fattorie Sociali (ZIP)",
     },
     "Marche": {
