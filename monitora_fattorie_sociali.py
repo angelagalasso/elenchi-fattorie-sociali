@@ -75,6 +75,8 @@ REGIONI = {
         "tipo": "pagina",
         "url_pagina": "https://www.regione.campania.it/aree-tematiche/politiche-sociali/agricoltura-sociale-campania-fattorie-sociali",
         "nota": "Registro Fattorie Sociali",
+        "filtro": "REFAS",
+        "filtro_testo": True,
     },
     "Emilia-Romagna": {
         "tipo": "pagina",
